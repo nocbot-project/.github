@@ -8,7 +8,7 @@ Mantoso offers two types of support for our open source projects.
 . <<Priority Support>>
 . <<Open Source Support>>
 
-== Priority Support
+== Paid Priority Support
 
 Mantoso offers paid priority support for all of our open source projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
 
