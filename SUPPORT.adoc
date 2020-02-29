@@ -1,20 +1,15 @@
-= Support
+= Priority Support
 
 // URIs
 :uri-website: https://mantoso.com/support
 
-Mantoso offers two types of support for our open source projects.
+== Priority Support
 
-. <<Priority Support>>
-. <<Open Source Support>>
-
-== Paid Priority Support
-
-Mantoso offers paid priority support for all of our open source projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
+Mantoso offers priority support for all of our open source projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
 
 We deliver value at a fraction of the cost of a full time Engineer, Developer or Cloud Architect.
 
-Services that we provide:
+Services we provide:
 
 - Architecture
 - Release Engineering
@@ -26,14 +21,9 @@ Services that we provide:
 
 {uri-website}[Contact us] to learn more about priority support.
 
-== Open Source Support
+=== Why not Github
 
-=== Search
+GitHub is our office, it's the place where our development team does its work. We use the issue list to keep track of bugs and the features that we are working on. We do this openly for transparency.
 
-. Search for open link:../../issues[Issues].
-. Read any pages on the link:../../wiki[Wiki].
-
-=== Known Problems
-
-=== New  Problems
-
+Please keep in mind that our repositories are FLOSS, and free support is provided by the goodwill
+of our wonderful community members.
