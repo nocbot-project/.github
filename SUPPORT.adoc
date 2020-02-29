@@ -2,7 +2,7 @@
 
 // URIs
 :uri-website: https://mantoso.com/support
-:uri-issues: issues/
+:uri-issues: issues
 == Priority Support
 
 Mantoso offers priority support for all of our projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
@@ -25,7 +25,7 @@ Services that we provide:
 
 === Search
 
-Search GitHub for {uri-issues}[issues].
+Search GitHub for link:issues[Issues].
 
 
 === Known Problems
