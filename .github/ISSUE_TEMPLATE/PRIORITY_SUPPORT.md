@@ -6,7 +6,7 @@ labels: "priority"
 assignees: "tracphil"
 ---
 
-We offer paid support for all of our projects where you will work directly with our team of experts. via email, a private Slack channel or video conferencing.
+We offer paid support for all of our open source projects where you will work directly with our team of experts. via email, a private Slack channel or video conferencing.
 
 We deliver value at a fraction of the cost of a full time Engineer, Developer or Cloud Architect.
 
