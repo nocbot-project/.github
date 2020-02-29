@@ -1,6 +1,6 @@
 ---
 name: "Bug Report"
-about: "Alert about a reproducible bug or regression in this project."
+about: "Report a reproducible bug or regression in this project."
 title: "Bug: "
 labels: "bug"
 assignees: ""

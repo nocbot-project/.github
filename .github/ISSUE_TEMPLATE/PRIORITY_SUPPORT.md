@@ -1,6 +1,6 @@
 ---
 name: Priority Support
-about: Request for paid professional support
+about: Request paid professional support
 title: "Priority Support: "
 labels: "priority"
 assignees: "tracphil"
