@@ -1,7 +1,9 @@
 ---
 name: User story
 about: A valuable increment of functionality, testable by the users
-
+title: "User Story: "
+labels: "story"
+assignees: ""
 ---
 
 # User Story
