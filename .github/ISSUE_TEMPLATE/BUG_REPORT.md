@@ -1,5 +1,5 @@
 ---
-name: "🐛 Bug Report"
+name: "Bug Report"
 about: "Alert about a reproducible bug or regression in this project."
 title: "Bug:  "
 labels: "bug"
@@ -16,6 +16,7 @@ assignees: ""
 
 ## Environment Info
 
+## Possible Solution
 
 ## Debug Log (if any)
 
