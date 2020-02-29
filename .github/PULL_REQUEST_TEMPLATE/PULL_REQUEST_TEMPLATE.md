@@ -32,9 +32,10 @@ Please check the type of change your PR introduces:
 ## What is the current behavior?
 <!-- Please describe the current behavior that you are modifying -->
 
-Issue Number: N/A
+<!-- This project only accepts pull requests related to open issues. -->
+Issue Number: 
 
-<!-- Link to a relevant issues and close issues that this pull request fixes. -->
+<!-- Link to a relevant issues and close issues that this pull request resolves. -->
 Fixes #
 
 ## What is the new behavior?
