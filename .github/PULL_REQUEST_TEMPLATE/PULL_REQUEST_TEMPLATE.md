@@ -1,4 +1,7 @@
+<!-- Remove any parts of this template not applicable to this Pull Request. -->
+
 ## Proposed Changes
+<!-- A brief description of the changes introduced by this Pull Request. -->
 
   -
   -
@@ -8,9 +11,9 @@
 
 Please check if your Pull Request fulfills the following requirements:
 
-- [ ] Tests
-- [ ] Build locally
-- [ ] Code format / lint
+- [ ] Have you checked to ensure there are no other open [Pull Requests][Pull Requests] for the same change?
+- [ ] Have you successfully ran tests with your changes locally?
+- [ ] Have you linted your code locally prior to submission?
 - [ ] Docs have been reviewed and added
 
 ## Pull request type
@@ -50,4 +53,7 @@ Fixes #
 
 ## Other information
 
-<!-- Include any additional information that is important for this PR. -->
+<!-- Include any additional information that is important for this Pull Request. -->
+
+
+[Pull Requests]: ../../../pulls
