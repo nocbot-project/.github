@@ -3,8 +3,6 @@
 // URIs
 :uri-website: https://mantoso.com/support
 
-== Priority Support
-
 Mantoso offers priority support for all of our open source projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
 
 We deliver value at a fraction of the cost of a full time Engineer, Developer or Cloud Architect.
@@ -21,7 +19,7 @@ Services we provide:
 
 {uri-website}[Contact us] to learn more about priority support.
 
-=== Why not Github
+== Why not Github
 
 GitHub is our office, it's the place where our development team does its work. We use the issue list to keep track of bugs and the features that we are working on. We do this openly for transparency.
 
