@@ -25,7 +25,7 @@ Services that we provide:
 
 === Search
 
-Search GitHub for link:/issues[Issues].
+Search GitHub for link:../issues[Issues].
 
 
 === Known Problems
