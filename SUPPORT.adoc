@@ -30,8 +30,8 @@ Services that we provide:
 
 === Search
 
-Search GitHub for link:../../issues[Issues].
-
+. Search for open link:../../issues[Issues].
+. Read any pages on the link:../../wiki[Wiki].
 
 === Known Problems
 
