@@ -7,6 +7,7 @@
 :uri-pull-request: https://help.github.com/articles/creating-a-pull-request-from-a-fork/
 :uri-edit-files: https://help.github.com/articles/editing-files-in-your-repository/
 :uri-local-clone: https://help.github.com/articles/cloning-a-repository-from-github/
+:uri-dco: https://developercertificate.org/
 == Preamble
 
 Hi! We're excited to have you as a contributor.
@@ -17,7 +18,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 == Things to know
 
-- You must use `git commit --signoff` for any commit to be merged, and agree that usage of `--signoff` constitutes agreement with the terms of link:./DCO_1_1.adoc[DCO 1.1].
+- You must use `git commit --signoff` for any commit to be merged, and agree that usage of `--signoff` constitutes agreement with the terms of link:./DCO_1_1.adoc[DCO 1.1]. See below how to easily sign the <<Developer Certificate Of Origin>>
 - We ask all of our community members and contributors to adhere to the link:./CODE_OF_CONDUCT.adoc[Mantoso Code of Conduct]. If you have questions, or need assistance, please reach out to our community team at codeofconduct@mantoso.com.
 
 
@@ -50,3 +51,24 @@ We generally recommend making changes in a {uri-local-clone}[local clone] of you
 There are many pull requests being submitted every week. Reviews are driven by the community, and any contributions are always welcome.
 
 Pull requests are open to public, and any GitHub user can review changes and provide feedback. If you are interested to review changes, please just do so (and thanks in advance!). No special permissions needed
+
+
+== Developer Certificate Of Origin
+
+The [Developer Certificate of Origin {uri-dco}[DCO] is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
+
+Contributors to this project sign-off that they adhere to these requirements by adding a `signed-off-by` line to commit messages.
+
+[source,text]
+----
+This is my commit message
+
+Signed-off-by: Bob Villa <bob@example.com>
+----
+
+`git` has an `-s` flag to append this automatically to your commit message:
+
+[source,bash]
+----
+$ git commit -s -m 'This is my commit message'
+----
