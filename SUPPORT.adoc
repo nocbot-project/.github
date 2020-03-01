@@ -23,5 +23,4 @@ Services we provide:
 
 GitHub is our office, it's the place where our development team does its work. We use the issue list to keep track of bugs and the features that we are working on. We do this openly for transparency.
 
-Please keep in mind that our repositories are FLOSS, and free support is provided by the goodwill
-of our wonderful community members.
+Please keep in mind that our repositories are FLOSS, and free support is provided by the goodwill of our wonderful community members.
