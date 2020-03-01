@@ -51,7 +51,7 @@ We generally recommend making changes in a {uri-local-clone}[local clone] of you
 
 Thanks for taking time to make a {uri-pull-request}[pull request]!
 
-== Commit Convention
+=== Commit Convention
 
 As a commit convention, we have adopted {uri-conv-commit}[Conventional Commits v1.0.0].
 
