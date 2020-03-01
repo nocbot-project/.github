@@ -1,4 +1,4 @@
-= Contributing
+= Contributor Guide
 :toc-placement: preamble
 :toc:
 :toclevels: 3
@@ -9,9 +9,16 @@
 :uri-local-clone: https://help.github.com/articles/cloning-a-repository-from-github/
 == Preamble
 
-Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+Hi! We're excited to have you as a contributor.
+
+Take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue or assessing patches and features.
+
+== Things to know
+
+- You must use `git commit --signoff` for any commit to be merged, and agree that usage of --signoff constitutes agreement with the terms of link: ../../DCO_1_1.adoc[DCO 1.1]
+
 
 == Getting Started
 
