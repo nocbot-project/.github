@@ -17,7 +17,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 == Things to know
 
-- You must use `git commit --signoff` for any commit to be merged, and agree that usage of --signoff constitutes agreement with the terms of link:../../DCO_1_1.adoc[DCO 1.1]
+- You must use `git commit --signoff` for any commit to be merged, and agree that usage of `--signoff` constitutes agreement with the terms of link:./DCO_1_1.adoc[DCO 1.1]
 
 
 == Getting Started
