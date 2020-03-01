@@ -8,9 +8,12 @@
 :uri-edit-files: https://help.github.com/articles/editing-files-in-your-repository/
 :uri-local-clone: https://help.github.com/articles/cloning-a-repository-from-github/
 :uri-dco: https://developercertificate.org/
+:uri-conv-commit: https://www.conventionalcommits.org/en/v1.0.0/
+:uri-jetbrains: https://www.jetbrains.com/
+:uri-jetbrains-git-template: https://plugins.jetbrains.com/plugin/9861-git-commit-template/
 == Preamble
 
-Hi! We're excited to have you as a contributor.
+Hi! We're excited to have you as a contributor!
 
 Take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
@@ -28,9 +31,7 @@ To contribute to this repository you will {uri-forking}[fork this repository], p
 
 === Information for newcomers
 
-The documentation below describes common cases for contributors. If you have any questions, please do not hesitate to ask in link:https://gitter.im/jenkinsci/newcomer-contributors[newcomers] or link:https://gitter.im/jenkinsci/docs[Documentation SIG] Gitter chats.If you have any feedback about your contributor experience, please also share it with us in these channels so that we can improve our guidelines.
-
-You can also find some newbie-friendly issues in our task tracker:
+You can also find some newcomer friendly issues in our task tracker:
 
 * link:../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22[Good First Issues on GitHub]
 
@@ -46,7 +47,28 @@ GitHub makes it easy to add, edit, or delete individual files via their website'
 
 We generally recommend making changes in a {uri-local-clone}[local clone] of your fork. This requires some additional tools and storage on your local machine, and you will need a bit more technical knowledge of how to use those tools. However, this will allow you work on multiple files as part of a single set of changes. You'll save your changes in a local branch and then test them locally. When they are ready you will push your changes to your your fork and submit a pull request from there.
 
-== Reviewing changes
+== Pull Requests
+
+Thanks for taking time to make a {uri-pull-request}[pull request]!
+
+== Commit Convention
+
+As a commit convention, we have adopted {uri-conv-commit}[Conventional Commits v1.0.0].
+
+In short, a commit message should be structured as follows:
+
+----
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+----
+
+
+If you are using any of the {uri-jetbrains}[JetBrains Editors] (IntellijJ IDEA, PyCharm, PhpStorm, etc), you can use the {uri-jetbrains-git-template}[Git Commit Template] plugin to add _Conventional Commits_ support to your editor.
+
+== Reviewing Changes
 
 There are many pull requests being submitted every week. Reviews are driven by the community, and any contributions are always welcome.
 
