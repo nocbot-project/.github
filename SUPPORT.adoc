@@ -3,6 +3,8 @@
 // URIs
 :uri-website: https://mantoso.com/support
 
+This is an open source project. The amount of time we have available to help resolve your issue is often limited as all help outside of our own priorities is provided on a volunteer basis. If you want to get priority help, get up to speed quickly, require training,  mentoring, or need full 24 x 7 production support, contact us for priority support.
+
 Mantoso offers priority support for all of our open source projects where you will work directly with our team of experts via email, a private Slack channel or video conferencing.
 
 We deliver value at a fraction of the cost of a full time Engineer, Developer or Cloud Architect.
